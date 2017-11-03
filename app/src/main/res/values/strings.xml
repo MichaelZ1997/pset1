@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MichaelvanderZwet-pset1</string>
+    <string name="Hoed">Hoed</string>
+    <string name="Oren">Oren</string>
+    <string name="Bril">Bril</string>
+    <string name="Ogen">Ogen</string>
+    <string name="Haar">Haar</string>
+    <string name="Armen">Armen</string>
+    <string name="Schoenen">Schoenen</string>
+    <string name="Snor">Snor</string>
+    <string name="Mond">Mond</string>
+    <string name="Neus">Neus</string>
+    <string name="Wenkbrauwen">Wenkbrauwen</string>
+</resources>
